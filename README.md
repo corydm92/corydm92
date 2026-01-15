@@ -102,18 +102,4 @@ Repo → https://github.com/corydm92/threshold-mtg
 Monorepo component library serving as a single source of truth for shared UI modules.  
 Covers library architecture, publishing, and independent package scaling.
 
-Repo → https://github.com/corydm92/component-library-with-lerna
-
----
-
-### 🛠️ Technical Skills
-
-- **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Frontend:** React, Next.js (SSR/SSG/ISR, RSC), Tailwind CSS, TanStack Query  
-- **State Management:** Redux Toolkit, React Context  
-- **Testing:** Jest, React Testing Library, Vitest  
-- **Build Tooling:** Vite, Webpack  
-- **CI/CD & Delivery:** GitHub Actions, Docker  
-- **UI Systems:** Design Systems, Storybook, Figma  
-- **Performance:** Core Web Vitals, Memoization, Render Prioritization (Concurrent Rendering, Lanes), Optimistic + Deferred Updates, Caching Strategies
-- **Accessibility:** WCAG, Semantic HTML  
+Repo → https://github.com/corydm92/component-library-with-lerna  
