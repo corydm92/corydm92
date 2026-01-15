@@ -22,7 +22,7 @@
   Align teams on shared system design, capture decisions through ADRs, and build guardrails (standards, tooling, reviews) so teams move fast without regressions
 
 - ⚡ **Web Performance**  
-  Rendering behavior, Core Web Vitals, caching, bundle strategy, real user metrics
+  Rendering behavior, Core Web Vitals, React Fiber lifecycle & concurrency model, caching strategies, bundle optimization
 
 - 🎛️ **UI Systems**  
   Design systems, reusable component libraries, accessibility (WCAG), quality guardrails
