@@ -80,10 +80,12 @@ My main focus lately has been building and refining my **Frontend Engineering Bl
 This repo represents the most current snapshot of how I think and work:  
 systems design, documentation as tooling, and predictable team execution.
 
+📐 Frontend Engineering Blueprint
 Repo → https://github.com/corydm92/frontend-engineering-blueprint
 
-I also keep a structured learning log where I track advanced coursework, refreshers, and deep dives (primarily Frontend Masters), treating learning as a system rather than ad-hoc notes.
+I also keep a structured learning log where I track advanced coursework, refreshers, and deep dives (primarily Frontend Masters), treating learning as a repeatable system, not ad-hoc notes.
 
+📚 Frontend Masters Learning Log
 Repo → https://github.com/corydm92/frontend-masters
 
 ---
