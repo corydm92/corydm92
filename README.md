@@ -1,13 +1,39 @@
 <h1 align="center">Hi, I’m Cory Morrissey 👋</h1>
 
 <p align="center">
-  <b>Senior Frontend Engineer • React • TypeScript • Next.js</b><br>
-  I lead and collaborate with teams to shape frontend architecture, codify standards, and make high quality shipping predictable.
+  <b>
+    Senior Frontend Engineer
+    <br />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      height="18"
+      alt="React"
+    />
+    React •
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      height="18"
+      alt="TypeScript"
+    />
+    TypeScript •
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+      height="18"
+      alt="Next.js"
+    />
+    Next.js
+  </b>
+  <br />
+  <br />
+  I lead and collaborate with teams to shape frontend architecture, codify standards, and make high-quality shipping predictable.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/corymorrissey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/corymorrissey" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
