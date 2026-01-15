@@ -1,53 +1,93 @@
-# Hi, I’m Cory 👋
+<h1 align="center">Hi, I’m Cory Morrissey 👋</h1>
 
-Senior Frontend Engineer building React + TypeScript + Next.js applications with strong architecture and web performance ⚡️
+<p align="center">
+  <b>Senior Frontend Engineer • React • TypeScript • Next.js</b><br>
+  I lead and collaborate with teams to shape frontend architecture, codify standards, and make high quality shipping predictable.
+</p>
 
-I care about predictable data flow, clean component boundaries, accessibility, and shipping systems teams can extend without chaos ✅
+<p align="center">
+  <a href="https://www.linkedin.com/in/corymorrissey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-## What I do 🧭
+---
 
-* Frontend architecture 🏗️
-  * App structure, routing, state ownership, async data patterns, component boundaries
-* Web performance ⚡️
-  * Rendering behavior, Core Web Vitals, caching, bundle strategy, real user metrics
-* UI systems 🎛️
-  * Design systems, reusable component libraries, accessibility (WCAG), quality guardrails
-* Team velocity 🤝
-  * Mentorship, PR quality, standards, reducing regressions, raising delivery reliability
+### 🧠  What I Do
 
-## Technical Skills 🛠️
+- 🏗️ **Frontend Architecture**  
+  Language + architecture contracts, app structure, state + data flow, testing strategy, UI systems, build/deploy pipelines, and production observability
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frontend:** React, Next.js, TailwindCSS
-- **Backend:** Node.js
-- **State Management:** Redux Toolkit, React Context
-- **Testing:** Jest, React Testing Library, Vitest
-- **Tooling:** Vite, Webpack, Docker, GitHub Actions (CI/CD)
-- **UI/Design:** Design Systems, Storybook, Figma
-- **Quality:** Accessibility (WCAG), Core Web Vitals
+- 🧭 **Technical Leadership**  
+  Align teams on shared system design, capture decisions through ADRs, and build guardrails (standards, tooling, reviews) so teams move fast without regressions
 
-## Public projects I’m proud of 📌
+- ⚡ **Web Performance**  
+  Rendering behavior, Core Web Vitals, caching, bundle strategy, real user metrics
 
-Most of my recent work is private (paid work + internal systems), but these older repos show how I build and how I think.
+- 🎛️ **UI Systems**  
+  Design systems, reusable component libraries, accessibility (WCAG), quality guardrails
 
-### Threshold MTG 🧮
-Streamlined MTG pricing updates and comparisons by turning spreadsheet workflows into repeatable metrics.  
-Cut the process from hours to minutes by standardizing inputs and automating the update + comparison steps.
+- 🤝 **Team Velocity**  
+  Mentorship, PR quality, standards, reducing regressions, raising delivery reliability
 
-Repo: https://github.com/corydm92/threshold-mtg
+---
 
-### Component Library with Lerna 🧱
-Monorepo component library as a single source of truth for shared UI modules.  
-Includes onboarding and hands-on examples for building a library, publishing to an npm registry, and scaling packages independently.
+### 🔥 Tech Stack
 
-Repo: https://github.com/corydm92/component-library-with-lerna
+```ts
+Languages:       JavaScript, TypeScript, HTML, CSS
+Frontend:        React, Next.js (SSR/SSG/ISR, RSC), Tailwind CSS, TanStack Query
+State:           Redux Toolkit, React Context
+Testing:         Jest, React Testing Library, Vitest
+Tooling:         Vite, Webpack, Docker, GitHub Actions (CI/CD)
+UI Systems:      Design Systems, Storybook, Figma
+Performance:     Core Web Vitals, Memoization, Render Prioritization (Concurrency + Lanes), Fiber Render/Commit Lifecycle, Optimistic + Deferred Updates, Caching Strategies
+Accessibility:   WCAG, Semantic HTML
+```
 
-## Now 🚀
+---
 
-* Building systems that stay simple as they grow
-* Developing a blueprint for structuring scalable, predictable frontend applications, from project initialization to observability and key metrics
-* Golf ⛳️, pets 🐾, and the PNW outdoors 🌲
+### 🚀 Primary Focus: Frontend Engineering Blueprint
 
-## Connect 🔗
+My main focus lately has been building and refining my **Frontend Engineering Blueprint** — a 7 layer frontend architecture model where each layer builds on the last, making correctness and stability the default across the SDLC.
 
-* LinkedIn: https://www.linkedin.com/in/corymorrissey
+This repo represents the most current snapshot of how I think and work:  
+systems design, documentation as tooling, and predictable team execution.
+
+Repo → https://github.com/corydm92/frontend-engineering-blueprint
+
+I also keep a structured learning log where I track advanced coursework, refreshers, and deep dives (primarily Frontend Masters), treating learning as a system rather than ad-hoc notes.
+
+Repo → https://github.com/corydm92/frontend-masters
+
+---
+
+### 📌 Public Projects I’m Proud Of
+
+Most of my recent work is private (paid work + internal systems), so my public repos skew older — but they still show how I build, document, and automate.
+
+**🧮 Threshold MTG**  
+Streamlined MTG pricing updates by turning spreadsheet workflows into repeatable metrics.  
+Cut the process from hours to minutes by standardizing inputs and automating comparisons.
+
+Repo → https://github.com/corydm92/threshold-mtg
+
+**🧱 Component Library with Lerna**  
+Monorepo component library serving as a single source of truth for shared UI modules.  
+Covers library architecture, publishing, and independent package scaling.
+
+Repo → https://github.com/corydm92/component-library-with-lerna
+
+---
+
+### 🛠️ Technical Skills
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frontend:** React, Next.js (SSR/SSG/ISR, RSC), Tailwind CSS, TanStack Query  
+- **State Management:** Redux Toolkit, React Context  
+- **Testing:** Jest, React Testing Library, Vitest  
+- **Build Tooling:** Vite, Webpack  
+- **CI/CD & Delivery:** GitHub Actions, Docker  
+- **UI Systems:** Design Systems, Storybook, Figma  
+- **Performance:** Core Web Vitals, Memoization, Render Prioritization (Concurrent Rendering, Lanes), Optimistic + Deferred Updates, Caching Strategies
+- **Accessibility:** WCAG, Semantic HTML  
