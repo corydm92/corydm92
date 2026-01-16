@@ -71,7 +71,7 @@ Accessibility:   WCAG, Semantic HTML
 
 ### 🚀 Primary Focus: Frontend Engineering Blueprint
 
-My main focus lately has been building and refining my **Frontend Engineering Blueprint** — a 7 layer frontend architecture model where each layer builds on the last, making correctness and stability the default across the SDLC.
+My main focus lately has been building and refining my Frontend Engineering Blueprint — a 7 layer frontend architecture model where each layer builds on the last, making correctness and stability the default across the SDLC.
 
 This repo represents the most current snapshot of how I think and work:  
 systems design, documentation as tooling, and predictable team execution.
