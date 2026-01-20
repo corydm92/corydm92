@@ -27,6 +27,7 @@
   <br />
   I lead and collaborate with teams to shape frontend architecture, codify standards, and make high-quality shipping predictable.
   <br />
+  <br />
   Outside of work, you can find me rolling putts at the golf course, wrangling my pets, and exploring the PNW.
 </p>
 
