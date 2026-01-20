@@ -61,6 +61,7 @@
 ```ts
 Languages:       JavaScript, TypeScript, HTML, CSS
 Frontend:        React, Next.js (SSR/SSG/ISR, RSC), Tailwind CSS, TanStack
+Backend:         Node.js, Express, GraphQL
 State:           Redux Toolkit, React Context
 Testing:         Jest, React Testing Library, Vitest, Playwright
 Tooling:         Vite, Webpack, Docker, GitHub Actions (CI/CD)
