@@ -1,34 +1,42 @@
 <h1 align="center">Hi, I’m Cory Morrissey 👋</h1>
 
+<h3 align="center">Senior Software Engineer</h3>
+
 <p align="center">
   <b>
-    Senior Software Engineer
-    <br />
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       height="18"
       alt="React"
     />
-    React •
+    React
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       height="18"
       alt="TypeScript"
     />
-    TypeScript •
+    TypeScript
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
       height="18"
       alt="Next.js"
     />
     Next.js
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      height="18"
+      alt="Node.js"
+    />
+    Node.js
   </b>
   <br />
   <br />
-  I lead and collaborate with teams to shape frontend architecture, codify standards, and make high-quality shipping predictable.
+  I lead and collaborate with teams to shape frontend architecture, codify
+  standards, and make high-quality shipping predictable.
   <br />
   <br />
-  Outside of work, you can find me rolling putts at the golf course, wrangling my pets, and exploring the PNW.
+  Outside of work, you can find me rolling putts at the golf course,
+  wrangling my pets, and exploring the PNW.
 </p>
 
 <p align="center">
