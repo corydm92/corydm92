@@ -31,12 +31,10 @@
   </b>
   <br />
   <br />
-  I lead and collaborate with teams to shape frontend architecture, codify
-  standards, and make high-quality shipping predictable.
+  I build and own product and platform web systems end to end, with a frontend tilt. I lead architecture, data flow, and UI foundations, and I also ship the Node/API work, tooling, and CI/CD that makes delivery predictable in production.
   <br />
   <br />
-  Outside of work, you can find me rolling putts at the golf course,
-  wrangling my pets, and exploring the PNW.
+  Outside of work, you can find me rolling putts at the golf course, wrangling my pets, and exploring the PNW.
 </p>
 
 <p align="center">
@@ -48,20 +46,20 @@
 
 ### 🧠  What I Do
 
-- 🏗️ **Frontend Architecture**  
-  Language + architecture contracts, app structure, state + data flow, testing strategy, UI systems, build/deploy pipelines, and production observability
+- 🏗️ **Web Systems Architecture**  
+  Define app boundaries, data flow, and integration contracts (UI, API, build) so teams can ship features without chaos
 
-- 🧭 **Technical Leadership**  
-  Align teams on shared system design, capture decisions through ADRs, and build guardrails (standards, tooling, reviews) so teams move fast without regressions
+- 🚢 **Delivery & Reliability**  
+  CI/CD, release hygiene, production debugging, and observability practices that make changes safe to deploy and easy to recover
 
 - ⚡ **Web Performance**  
-  Rendering behavior, Core Web Vitals, React Fiber lifecycle & concurrency model, caching strategies, bundle optimization
+  Core Web Vitals, rendering behavior, caching, and bundle strategy (profiling first, then targeted fixes)
 
-- 🎛️ **UI Systems**  
-  Design systems, reusable component libraries, accessibility (WCAG), quality guardrails
+- 🎛️ **UI Foundations**  
+  Design systems, reusable component libraries, accessibility (WCAG), and tooling that standardizes quality across teams
 
-- 🤝 **Team Velocity**  
-  Mentorship, PR quality, standards, reducing regressions, raising delivery reliability
+- 🧭 **Technical Leadership**  
+  Drive alignment through ADRs, reviews, and mentoring so decisions stick and execution stays predictable
 
 ---
 
@@ -69,13 +67,14 @@
 
 ```ts
 Languages:       JavaScript, TypeScript, HTML, CSS
-Frontend:        React, Next.js (SSR/SSG/ISR, RSC), Tailwind CSS, TanStack
-Backend:         Node.js, Express, GraphQL
-State:           Redux Toolkit, React Context
-Testing:         Jest, React Testing Library, Vitest, Playwright
-Tooling:         Vite, Webpack, Docker, GitHub Actions (CI/CD)
+UI:              React, Next.js (SSR/SSG/ISR, RSC), Tailwind CSS, Mui
+Runtime + APIs:  Node.js, Express, REST, GraphQL
+Data + State:    TanStack Query, Redux Toolkit, React Context
+Testing:         Vitest, Jest, React Testing Library, Playwright
+Delivery:        Docker, GitHub Actions (CI/CD), Vercel
+Tooling:         Vite, Webpack, Babel, ESLint, Prettier
 UI Systems:      Design Systems, Storybook, Figma
-Performance:     Core Web Vitals, Memoization, Render Prioritization (Concurrency + Lanes), Fiber Render/Commit Lifecycle, Optimistic + Deferred Updates, Caching Strategies
+Performance:     Core Web Vitals, caching, code-splitting, render profiling
 Accessibility:   WCAG, Semantic HTML
 ```
 
