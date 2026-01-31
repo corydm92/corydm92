@@ -80,28 +80,25 @@ Accessibility:   WCAG, Semantic HTML
 
 ---
 
-### 🚀 Primary Focus: Frontend Engineering Blueprint
+### 🚀 Primary Focus
 
-My main focus lately has been building and refining my Frontend Engineering Blueprint — a 7 layer frontend architecture model where each layer builds on the last, making correctness and stability the default across the SDLC.
-
-This repo represents the most current snapshot of how I think and work:  
-systems design, documentation as tooling, and predictable team execution.
-
-📐 Frontend Engineering Blueprint
+**📐 Frontend Engineering Blueprint**  
+A 7‑layer frontend architecture system that standardizes correctness, delivery, and documentation at scale.  
+Built as a living blueprint for how I design, document, and evolve long‑lived frontend systems.
 
 Repo → https://github.com/corydm92/frontend-engineering-blueprint
 
-I also keep a structured learning log where I track advanced coursework, refreshers, and deep dives (primarily Frontend Masters), treating learning as a repeatable system, not ad-hoc notes.
+**🧰 TypeScript Monorepo Template**  
+Apps‑first template with CI orchestration and per‑app quality gates for scaling product + platform work.  
+Optimized for fast project bootstrap with clear tooling boundaries and predictable delivery.
 
-📚 Frontend Masters Learning Log
-
-Repo → https://github.com/corydm92/frontend-masters
+Repo → https://github.com/corydm92/github-ts-repo-template
 
 ---
 
-### 📌 Public Projects I’m Proud Of
+### 📌 Projects I’m Proud Of
 
-Most of my recent work is private (paid work + internal systems), so my public repos skew older — but they still show how I build, document, and automate.
+These are older projects, but they show how I’ve built, documented, and automated over the years — foundational work that shaped the engineer I am today.
 
 **🧮 Threshold MTG**  
 Streamlined MTG pricing updates by turning spreadsheet workflows into repeatable metrics.  
