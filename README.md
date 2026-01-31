@@ -31,7 +31,7 @@
   </b>
   <br />
   <br />
-  I build and own product and platform web systems end to end, with a frontend tilt. I lead architecture, data flow, and UI foundations, and I also ship the Node/API work, tooling, and CI/CD that makes delivery predictable in production.
+  I build and own product and platform web systems end to end, with a frontend tilt. I lead architecture, data flow, and UI foundations, and I also ship the Node/API work, platform tooling, and CI/CD that makes delivery predictable in production.
   <br />
   <br />
   Outside of work, you can find me rolling putts at the golf course, wrangling my pets, and exploring the PNW.
